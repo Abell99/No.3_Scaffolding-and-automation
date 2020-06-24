@@ -1,7 +1,5 @@
 # No.3_Scaffolding-and-automation
  fed-e-task-02-01
-# No.3_Scaffolding-and-automation
- fed-e-task-02-01
 
 
 > 拉钩大前端训练营第一期学员
